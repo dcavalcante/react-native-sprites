@@ -207,7 +207,6 @@ To see `react-native-sprites` in action, refer to the example application includ
 
 - **Sprite Sheet Alignment**: Ensure your sprite sheet frames are evenly spaced and aligned. Use `offsetX` and `offsetY` if adjustments are needed.
 - **Frame Dimensions**: If your frames are not uniform or need specific sizing, use `frameWidth` and `frameHeight` to override automatic calculations.
-- **Local Images Only**: Only local images imported using `require()` are supported. Remote images are not supported.
 - **Performance Considerations**: Keep the frame size and animation length in mind for performance, especially on lower-end devices.
 
 ## Contributing
