@@ -1,5 +1,9 @@
 # React Native Sprites
 
+<p align="left">
+  <img src="./logo.png" alt="React Native Sprites logo" width=250 />
+</p>
+
 A React Native component for rendering and animating sprite sheets.
 
 ## Features
