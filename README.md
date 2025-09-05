@@ -33,7 +33,7 @@ Initialize a reference with `useRef` and pass it to `Sprites` as the `ref` prope
 ```js
 import React, { useRef } from 'react';
 import { View } from 'react-native';
-import Sprites, { type SpritesMethods } from 'react-native-sprites';
+import { Sprites, type SpritesMethods } from 'react-native-sprites';
 
 const MySpriteComponent = () => {
   const spriteRef = useRef<SpritesMethods>(null);
